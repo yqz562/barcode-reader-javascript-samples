@@ -6,9 +6,11 @@
       ],
       "MirrorMode": "MM_BOTH",
       "HasVerticalQuietZone": 0,
+      "BarcodeTextRegExPattern": "^[sS][A-Za-z0-9]+$",
       "Name": "bfs_0"
     },
     {
+      "BarcodeTextRegExPattern": "^[sS][A-Za-z0-9]+$",
       "Name": "bfs_1"
     }
   ],
