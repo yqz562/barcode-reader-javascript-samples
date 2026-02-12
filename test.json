@@ -4,13 +4,11 @@
       "BarcodeFormatIds": [
         "BF_DATAMATRIX"
       ],
-      "BarcodeTextRegExPattern": "^[sS][A-Za-z0-9]{10}$",
       "MirrorMode": "MM_BOTH",
       "HasVerticalQuietZone": 0,
       "Name": "bfs_0"
     },
     {
-      "BarcodeTextRegExPattern": "^[sS][A-Za-z0-9]{10}$",
       "Name": "bfs_1"
     }
   ],
